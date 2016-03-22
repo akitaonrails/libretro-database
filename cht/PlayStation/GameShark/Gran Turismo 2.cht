@@ -1,0 +1,54 @@
+cheats = 13
+
+cheat0_desc = "Gold B License"
+cheat0_code = "801CCD30+0400+801CCDD4+0400+801CCE78+0400+801CCF1C+0400+801CCFC0+0400+801CD064+0400+801CD108+0400+801CD1AC+0400+801CD250+0400+801CD2F4+0400"
+cheat0_enable = false
+
+cheat1_desc = "Gold B License (alternate)"
+cheat1_code = "50000AA4+0000+801CCD30+0400"
+cheat1_enable = false
+
+cheat2_desc = "Gold A License"
+cheat2_code = "801CC6C8+0400+801CC76C+0400+801CC810+0400+801CC8B4+0400+801CC958+0400+801CC9FC+0400+801CCAA0+0400+801CCB44+0400+801CCBE8+0400+801CCC8C+0400"
+cheat2_enable = false
+
+cheat3_desc = "Gold A License (alternate)"
+cheat3_code = "50000AA4+0000+801CC6C8+0400"
+cheat3_enable = false
+
+cheat4_desc = "Gold International C License"
+cheat4_code = "801CC060+0400+801CC104+0400+801CC1A8+0400+801CC24C+0400+801CC2F0+0400+801CC394+0400+801CC438+0400+801CC4DC+0400+801CC580+0400+801CC624+0400"
+cheat4_enable = false
+
+cheat5_desc = "Gold International C License (alternate)"
+cheat5_code = "50000AA4+0000+801CC060+0400"
+cheat5_enable = false
+
+cheat6_desc = "Gold International B License"
+cheat6_code = "801CB9F8+0400+801CBA9C+0400+801CBB40+0400+801CBBE4+0400+801CBC88+0400+801CBD2C+0400+801CBDD0+0400+801CBE74+0400+801CBF18+0400+801CBFBC+0400"
+cheat6_enable = false
+
+cheat7_desc = "Gold International B License (alternate)"
+cheat7_code = "50000AA4+0000+801CB9F8+0400"
+cheat7_enable = false
+
+cheat8_desc = "Gold International A License"
+cheat8_code = "801CB390+0400+801CB434+0400+801CB4D8+0400+801CB57C+0400+801CB620+0400+801CB6C4+0400+801CB768+0400+801CB80C+0400+801CB8B0+0400+801CB954+0400"
+cheat8_enable = false
+
+cheat9_desc = "Gold International A License (alternate)"
+cheat9_code = "50000AA4+0000+801CB390+0400"
+cheat9_enable = false
+
+cheat10_desc = "Have Special License"
+cheat10_code = "801CAD28+0400+801CADCC+0400+801CAE70+0400+801CAF14+0400+801CAFB8+0400+801CB05C+0400+801CB100+0400+801CB1A4+0400+801CB248+0400+801CB2EC+0400"
+cheat10_enable = false
+
+cheat11_desc = "Have Special License (alternate)"
+cheat11_code = "5000011A4+0000+801CAD28+0400"
+cheat11_enable = false
+
+cheat12_desc = "Unlock extra tracks and cars in arcade mode"
+cheat12_code = "500001202+0000+801C99C8+0505+301C99DC+0005"
+cheat12_enable = false
+
